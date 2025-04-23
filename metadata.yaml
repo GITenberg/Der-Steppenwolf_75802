@@ -1,0 +1,33 @@
+_repo: Der-Steppenwolf_75802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Lauscher, Hermann
+    - Sinclair, Emil
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Hesse
+    - https://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2025-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75802'
+language: de
+pgterms:marc905: 20230122045721hesse
+pgterms:marc906: '1927'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bS. Fischer, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der Steppenwolf
+url: http://www.gutenberg.org/ebooks/75802
