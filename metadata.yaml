@@ -1,5 +1,8 @@
 _repo: Der-Steppenwolf_75802
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75802-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -14,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Hermann_Hesse
     - https://en.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75802#Der-Steppenwolf
 gutenberg_issued: '2025-04-06'
 gutenberg_type: Text
 identifiers:
